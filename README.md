@@ -123,9 +123,8 @@ The project follows the standard three-tier DBMS architecture:
 ## Deployment & Usage
 
 1. Install a compatible DBMS (e.g., MySQL, PostgreSQL, Oracle)
-2. Import schema and data scripts from `/schemas` and `/data`
-3. Execute procedures and queries as needed
-4. Use provided sample queries for testing and reporting
+2. Execute procedures and queries as needed
+3. Use provided sample queries for testing and reporting
 
 ---
 
