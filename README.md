@@ -131,8 +131,8 @@ The project follows the standard three-tier DBMS architecture:
 
 ## Contributors
 
-- [Your Name]
-- [Collaborators]
+- [Devansh Wadhwani]
+- [Arianna Vohra, Aaditi Verma, Ananya]
 
 ---
 
@@ -141,10 +141,6 @@ The project follows the standard three-tier DBMS architecture:
 - [InterviewBit: Components of DBMS](https://www.interviewbit.com/blog/components-of-dbms/)
 - [Brainalyst: DBMS Features & Types](https://brainalyst.com/blog/features-of-dbms/)
 - [Jaro Education: Components of a Database](https://www.jaroeducation.com/blog/components-of-database/)
-- [Cubet: Essential README Structure](https://www.cubettech.com/resources/blog/how-to-write-a-good-readme-for-your-github-project/)
 
----
-
-> This README is designed to be both formal and data-oriented, providing a clear, structured overview of the DBMS project and its core data management concepts.
 
 
