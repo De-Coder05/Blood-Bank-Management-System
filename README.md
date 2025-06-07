@@ -131,8 +131,8 @@ The project follows the standard three-tier DBMS architecture:
 
 ## Contributors
 
-- [Devansh Wadhwani]
-- [Arianna Vohra, Aaditi Verma, Ananya]
+- Devansh Wadhwani
+- Arianna Vohra, Aaditi Verma, Ananya
 
 ---
 
